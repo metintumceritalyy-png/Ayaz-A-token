@@ -1,0 +1,2 @@
+# Ayaz-A-token
+AyazToken
